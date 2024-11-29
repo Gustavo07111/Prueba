@@ -1,8 +1,5 @@
 
 nueva linea de codigo 1
 
-Nueva linea de codigo 2
 
-arr.forEach(function(item){
-    console.log(item);
-});
+console.log(arr.toString());
