@@ -1,8 +1,8 @@
 
 nueva linea de codigo 1
 
-<<<<<<< HEAD
-nueva linea de codigo 2
-=======
 Nueva linea de codigo 2
->>>>>>> gmayora
+
+arr.forEach(function(item){
+    console.log(item);
+});
